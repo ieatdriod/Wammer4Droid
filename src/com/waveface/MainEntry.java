@@ -14,6 +14,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemSelectedListener;
 
+
+/**
+ * Test For Michael Chen
+ * @author lmichael
+ *
+ */
 public class MainEntry extends Activity implements OnClickListener {
 	//Controls
 	Gallery gallery;
